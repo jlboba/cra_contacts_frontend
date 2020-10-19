@@ -17,7 +17,7 @@ This is a frontend *only* react app consuming a third-party API. In particular, 
 1. Clone **your fork** of the repo onto your computer anywhere that is not a git repo
 1. `cd` into the repo 
 1. Touch a `.env` into the root of your project and add a REACT_APP_API_URL value wih the URL to your API. See the .env.sample file for an example of how to set it up
-  - Your URL can either be local if you're testing your local API or the deployed url if you're testing the deployed API 
+    - Your URL can either be local if you're testing your local API or the deployed url if you're testing the deployed API 
 1.Install all the required packages by running: `yarn install` 
 1. Run the app by running `yarn start` and you should now be able to see the app on localhost:3000 
 
